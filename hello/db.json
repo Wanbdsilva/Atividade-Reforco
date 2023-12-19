@@ -1,0 +1,34 @@
+{
+  "agenda": [
+    {
+      "cep": "09340570",
+      "endereco": "Rua Ipê",
+      "bairro": "Jardim Estrela",
+      "numero": "832",
+      "complemento": "Casa",
+      "cidade": "Mauá",
+      "estado": "SP",
+      "id": 1
+    },
+    {
+      "cep": "09340570",
+      "endereco": "Rua Ipê",
+      "bairro": "Jardim Estrela",
+      "numero": "777",
+      "complemento": "Casa",
+      "cidade": "Mauá",
+      "estado": "SP",
+      "id": 2
+    },
+    {
+      "cep": "09340570",
+      "endereco": "Rua Ipê",
+      "bairro": "Jardim Estrela",
+      "numero": "999",
+      "complemento": "Casa",
+      "cidade": "Mauá",
+      "estado": "SP",
+      "id": 3
+    }
+  ]
+}
